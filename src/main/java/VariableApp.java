@@ -20,6 +20,8 @@ public class VariableApp {
         System.out.println("is it raining? "+isitraining);
 
 
+
+
     }
 
 
